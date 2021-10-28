@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+#logoContainer {
+	max-width: 5%;
+}
+
+.h2-custom-m {
+	margin-left: 10em;
+}
+
+.h2-custom-manager {
+	margin-left: 0;
+}
